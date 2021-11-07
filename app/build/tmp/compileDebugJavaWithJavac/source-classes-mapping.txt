@@ -1,0 +1,8 @@
+com/example/tugaspraktikum5/Alarmreceiver.java
+ com.example.tugaspraktikum5.Alarmreceiver
+com/example/tugaspraktikum5/BuildConfig.java
+ com.example.tugaspraktikum5.BuildConfig
+com/example/tugaspraktikum5/MainActivity.java
+ com.example.tugaspraktikum5.MainActivity
+ com.example.tugaspraktikum5.MainActivity$1
+ com.example.tugaspraktikum5.MainActivity$2
